@@ -1,0 +1,12 @@
+.main{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 79%;
+    margin-top: 81px;
+    height: 425px;
+}
+.carousel .thumbs{
+    display: none;
+}
